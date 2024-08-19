@@ -1,1 +1,1 @@
-adicionando um texto 
+adicionando um texto e aprendendo sobre Git.
