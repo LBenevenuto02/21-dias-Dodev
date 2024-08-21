@@ -13,9 +13,9 @@ idade2 = prompt ("Digite a idade do segundo nome: ")
 
 console.log ("O primeiro nome é: " + nome1)
 console.log ("O segundo nome é: " + nome2)
-console.log ("A idade do primeiro nome é: " + idade1)
-console.log ("A idade do segundo nome é: " + idade2)
-console.log ("E a diferença das idades deles é de " + [idade1 - idade2] + " anos")
+console.log ("A idade do(a) " + nome1 + " é de " + idade1 + " anos ")
+console.log ("A idade do(a) " + nome2 + " é de " + idade2 + " anos ")
+console.log ("E a diferença das idades deles é de " + [idade1 - idade2] + " ano(s) ")
 
 
 
