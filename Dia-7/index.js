@@ -25,5 +25,5 @@ while (contador <10){
 
 console.log("Pessoas que não tomaram cafe: " + pessoasQueNaoTomaramCafe)
 console.log("Pessoas que tomaram cafe: " + pessoaQueTomaramCafe)
-console.log("Pessoas que tomaram café do sexo m foram: " + qtdDeHomens)
-console.log("Pessoas que tomaram café do sexo f foram: " + qtdDeMulheres)
+console.log("Pessoas que tomaram café do sexo masculino foram: " + qtdDeHomens)
+console.log("Pessoas que tomaram café do sexo feminino foram: " + qtdDeMulheres)
