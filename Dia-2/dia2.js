@@ -17,10 +17,8 @@ console.log ("A idade do(a) " + nome1 + " é de " + idade1 + " anos ")
 console.log ("A idade do(a) " + nome2 + " é de " + idade2 + " anos ")
 console.log ("E a diferença das idades deles é de " + [idade1 - idade2] + " ano(s) ")
 
-
-
-
-
-
-
-
+if (idade1 >= idade2){
+    console.log(nome1 + " é mais velho(a) ou tem a mesma idade que " + nome2)
+}else{
+    console.log(nome1 + " é mais novo que " + nome2)
+}
